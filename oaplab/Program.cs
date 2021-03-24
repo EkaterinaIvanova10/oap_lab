@@ -9,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 // namespace такой же как и название проекта
-namespace oapLabaSmirnov
+namespace oapLaba
 {
 
     /*class Program
